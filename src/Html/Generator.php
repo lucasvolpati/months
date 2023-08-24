@@ -50,9 +50,9 @@ class Generator
             );
         }
 
-        for ($i=1; $i <= $months; $i++)
+        for ($i = 1; $i <= $months; $i++)
         {
-            $digit = $i < 10 ? '0'.$i : $i;
+            $digit = $i < 10 ? '0' . $i : $i;
             $currentDate = "{$currentYear}-{$digit}-20";
             $selected = $currentMonth == $digit ? 'selected' : '';
             $formatedMonth = $formatter != ''
