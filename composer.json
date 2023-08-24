@@ -1,0 +1,20 @@
+{
+    "name": "lucasvolpati/get_date",
+    "description": "Component to work with dates",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Months\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lucas Alcantara Rodrigues Volpati",
+            "email": "lucas.volpati@outloo.com",
+            "role": "Back end developer"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
