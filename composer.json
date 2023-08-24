@@ -1,6 +1,6 @@
 {
     "name": "lucasvolpati/months",
-    "description": "Component to work with dates",
+    "description": "Component to work with months",
     "type": "library",
     "license": "MIT",
     "autoload": {
@@ -11,12 +11,11 @@
     "authors": [
         {
             "name": "Lucas Alcantara Rodrigues Volpati",
-            "email": "lucas.volpati@outloo.com",
+            "email": "lucas.volpati@outlook.com",
             "role": "Back end developer"
         }
     ],
-    "minimum-stability": "stable",
     "require": {
-        "php": ">=8.1"
+        "php": ">=8.0"
     }
 }
